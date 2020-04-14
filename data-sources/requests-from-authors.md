@@ -1,7 +1,7 @@
 # Requests from Module and App Authors
 
 These are core features and/or base modules that various authors need
-before they can build/port their modules and apps to Perl 6.
+before they can build/port their modules and apps to Raku.
 
 
 ## __sri, primary author of Mojo/Mojolicious
@@ -21,13 +21,13 @@ before they can build/port their modules and apps to Perl 6.
   + automatic restart?
 
 
-## tadzik, panda maintainer and prolific Perl 6 module author
+## tadzik, panda maintainer and prolific Raku module author
 
 * proper async IO
 * libuv binding or the equivalent
 
 
-## skids, Perl 6 module author
+## skids, Raku module author
 
 * unsigned sized native types
 * diamond role composition

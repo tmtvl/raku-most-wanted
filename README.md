@@ -1,11 +1,11 @@
-# perl6-most-wanted
+# raku-most-wanted
 
 [Lists](most-wanted/README-wanted.md) of most wanted
 [native library bindings](most-wanted/bindings.md),
 [modules](most-wanted/modules.md) and
 [research](data-sources/README-sources.md) that helped us select them.
 
-Add your wanted module, with an [issue](https://github.com/perl6/perl6-most-wanted/issues) to justify why you think someone
+Add your wanted module, with an [issue](https://github.com/raku/raku-most-wanted/issues) to justify why you think someone
 should work on that.
 
 ## Why do this?

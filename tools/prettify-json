@@ -6,7 +6,7 @@ use JSON;
 use FindBin;
 use File::Slurp;
 
-my $raw_file    =  $ARGV[0] || "$FindBin::Bin/../data-sources/perl6-module-list.json";
+my $raw_file    =  $ARGV[0] || "$FindBin::Bin/../data-sources/raku-module-list.json";
 my $pretty_file =  $raw_file;
    $pretty_file =~ s/(\.json)$/-pretty$1/;
 
